@@ -6,5 +6,5 @@
 👋 Hello, Just call me Renzu!
   - **Aspiring Front-End Developer?** 
   - **Learning UI / UX Design, Tailwind, CSS.** 
-  - **I have an interest in backend such as PHP and Java.** 
+  - **I have an interest in backend such as PHP, Java, Python, C#** 
 
